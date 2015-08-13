@@ -1,5 +1,21 @@
 #!/usr/bin/ruby
-# Lampiao Sec Team
+#encoding: UTF-8
+
+puts""      
+puts"          __________  "
+puts"        /   jmMK!!   \ jdC PmD Dnm 0ZMP. oMeKyMdWmh  "
+puts"       /              \=======================================================  "                          
+puts"      |     _______ _     _ _______ _    _ _______ _____  ______  _____        \ "
+puts"     |     |       |_____| |_____|  \\  /  |______   |   |_____/ |     |      / "
+puts"     |     |_____  |     | |     |   \\/   |______ __|__ |    \\_ |_____|    / "
+puts"      |                 ___________________________________________________/ "
+puts"       \               / "
+puts"         \____________/ HZ0d, tMvhCqd, 5cCLydY, kmUd, XvmY_u "
+puts""
+puts""
+puts"     #LampiãoSec - Security Research Group"
+puts""
+puts""
 
 require 'socket'
 require 'timeout'
